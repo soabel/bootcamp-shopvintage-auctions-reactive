@@ -1,4 +1,10 @@
 com/shopvintage/auctions/AuctionsApplication.java
  com.shopvintage.auctions.AuctionsApplication
+com/shopvintage/auctions/persistence/repositories/AuctionRepository.java
+ com.shopvintage.auctions.persistence.repositories.AuctionRepository
+com/shopvintage/auctions/persistence/entities/Auction.java
+ com.shopvintage.auctions.persistence.entities.Auction
+com/shopvintage/auctions/persistence/entities/Bid.java
+ com.shopvintage.auctions.persistence.entities.Bid
 com/shopvintage/auctions/web/controllers/AuctionsController.java
  com.shopvintage.auctions.web.controllers.AuctionsController
