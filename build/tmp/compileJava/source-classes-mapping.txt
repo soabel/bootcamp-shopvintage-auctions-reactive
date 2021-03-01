@@ -1,0 +1,4 @@
+com/shopvintage/auctions/AuctionsApplication.java
+ com.shopvintage.auctions.AuctionsApplication
+com/shopvintage/auctions/web/controllers/AuctionsController.java
+ com.shopvintage.auctions.web.controllers.AuctionsController
