@@ -9,6 +9,6 @@ está ubicado el archivo docker-compose.yml:
 docker-compose up -d
 ```
 ## Detener Kafka, eliminar contenedores
-
+```sh
 docker-compose down
-
+```
