@@ -13,7 +13,7 @@ public class Auction {
 
     private String product;
     private String description;
-    @Field(name = "amount")
+//    @Field(name = "amount")
     private Double price;
 
     private List<Bid> bids;
